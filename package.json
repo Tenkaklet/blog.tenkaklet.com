@@ -15,7 +15,7 @@
     "lyra": "github:TryGhost/lyra#main",
     "mysql2": "2.3.3",
     "liebling": "github:eddiesigner/liebling#master",
-    "staypuft": "github:dlecina/StayPuft#master"
+    "headline": "github:TryGhost/Headline#main"
   },
   "scripts": {
     "start": "bin/create-config && node index.js",

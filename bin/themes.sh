@@ -2,7 +2,7 @@ themes=(
 	casper
 	lyra,
 	liebling,
-	staypuft
+	headline
 )
 
 mkdir -p content/themes/
