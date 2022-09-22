@@ -1,7 +1,8 @@
 themes=(
 	casper
 	lyra,
-	liebling
+	liebling,
+	staypuft
 )
 
 mkdir -p content/themes/

@@ -14,7 +14,8 @@
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
     "mysql2": "2.3.3",
-    "liebling": "github:eddiesigner/liebling#master"
+    "liebling": "github:eddiesigner/liebling#master",
+    "staypuft": "github:dlecina/StayPuft#master"
   },
   "scripts": {
     "start": "bin/create-config && node index.js",
